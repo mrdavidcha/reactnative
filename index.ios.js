@@ -14,7 +14,7 @@ export default class reactNativePractice extends Component {
 				</Text>
 				<Text style={Styles.instructions}>
 					Press Cmd+R to reload,{'\n'}
-					Cmd+D or shake for dev menu
+					Cmd+D or shake for dev menu o
 				</Text>
 			</View>
 		);
